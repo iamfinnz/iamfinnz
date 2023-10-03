@@ -9,7 +9,7 @@ I'm interested in:
 - Cyber Security
 - Machine Learning
 
-### I'm Student, Engineer, & Human
+### I'm Fresh Graduate, Engineer, & Human
 - 🏢 I'm currently active as Informatics Engineering Student at [Politeknik Caltex Riau](https://pcr.ac.id/).
 - 🚀 I'm currently learning about Web Development and Android Development.
 - ⚡ Fun Fact: I love Music and Cat.
