@@ -1,6 +1,6 @@
-### Hi, I'm Ham 👋
+<h1 align="center">Hi 👋, I'm Ilham Arifin</h1>
 
-I'm a student from Indonesia. My primary interest lies in the field of **Cloud Computing**. I love learning new knowledge!
+I'm a fresh graduate majoring in Informatics Engineering Politeknik Caltex Riau. My primary interest lies in the field of **Web Development** especially website development using PHP and Javascript. I love learning new knowledge!
 
 I'm interested in:
 - Web Development
@@ -11,7 +11,9 @@ I'm interested in:
 
 ### I'm Fresh Graduate, Engineer, & Human
 - 🏢 I'm currently active as Informatics Engineering Student at [Politeknik Caltex Riau](https://pcr.ac.id/).
-- 🚀 I'm currently learning about Web Development and Android Development.
+- 🚀 I'm currently learning about **ReactJS and Go Language**
+- 📫 Contact me via **ilhamarifinwork24@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/ilhamarifin/](https://www.linkedin.com/in/ilhamarifin/)
 - ⚡ Fun Fact: I love Music and Cat.
 
 ### Languages and Tools:
